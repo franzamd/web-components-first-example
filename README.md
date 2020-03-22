@@ -1,6 +1,6 @@
 # Web Components Example
 
-> First example creating web components from scratch.
+> First example creating web components from scratch creating card users with personal info.
 
 ## Usage
 
